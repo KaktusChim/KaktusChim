@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaktusChim
-- 👀 I’m interested in programming
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning web developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: chimozu@seznam.cz
